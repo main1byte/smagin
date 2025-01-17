@@ -18,8 +18,8 @@ A versatile file compression tool implemented in Go that supports multiple compr
 ## Installation
 
 ```bash
-git clone https://github.com/sanjay7178/filecompressor
-cd filecompressor
+git clone https://github.com/main1byte/smagin
+cd smagin
 go build
 ```
 
