@@ -6,7 +6,7 @@ A versatile file compression tool implemented in Go that supports multiple compr
 
 - Multiple compression algorithms:
     - Huffman Coding
-    - Shannon-Fano Coding
+    - Shannon-Fano Coding +
     - Burrows-Wheeler Transform (BWT)
     - Run-Length Encoding (RLE)
     - LZW Compression
